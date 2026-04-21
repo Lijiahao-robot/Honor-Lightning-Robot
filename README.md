@@ -37,3 +37,4 @@ Honor’s humanoid robots include Lightning and Yuanqi, adopting bionic design a
 [1] Park Y L, Cho K J. A bioinspired soft robotic face with human-like expressions[J]. Science Robotics, 2022, 7(64): eabl7290.
 [2] 荣耀终端有限公司. 荣耀人形机器人技术白皮书[R]. 深圳: 荣耀终端有限公司, 2026.
 [3] Physical Intelligence Team. π₀.₇: a Steerable Generalist Robotic Foundation Model[J/OL]. arXiv, 2026.
+https://mx77v4s54co.feishu.cn/wiki/space/7599965572918414554具身智能之心
